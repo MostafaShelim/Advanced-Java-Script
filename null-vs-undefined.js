@@ -14,7 +14,7 @@
 // add(12);//parameter ekta kom dichi undefined
 
 const premik = {
-    name: "mostafa";
+    name: "mostafa",
     phone: 022
 }
 console.log(premik.gf)//undefined
